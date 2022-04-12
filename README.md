@@ -1,6 +1,6 @@
 # Masterarbeit
 
-Dies ist das Repository der Masterarbeit mit dem Titel: Prototyp eines intelligenten Informationsfilter mittels visueller Bauteilerkennung auf mobilen Endgeräten.
+Dies ist das Repository der Masterarbeit mit dem Titel: Prototyp eines intelligenten Informationsfilter mittels visueller Bauteilerkennung auf mobilen Endgeräten. Dabei wurde vor allem die 3D Reconstruktion aus einem einzigen Bild durch drei verschiedene Neuronale Netze untersucht.
 
 
 Im Repository befinden sich alle neuronalen Netze, die Android App sowie die implementierten Ähnlichkeitsmaße. In jedem Ordner befindet sich nochmals eine README.md.
@@ -17,5 +17,3 @@ Im Repository befinden sich alle neuronalen Netze, die Android App sowie die imp
 ## Ähnlichkeißtsmaße 
 [Ähnlichkeitsmaße README.md](Ähnlichkeitsmaß)
 
-## Android App 
-[Android App README.md](Android App)
